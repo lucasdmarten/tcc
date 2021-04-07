@@ -13,6 +13,6 @@
 
 <h2>Domínio</h2>
 <p>Configurado com uma resolução de 15km, a cobertura do domínio é centrado no complexo eólico do Cerro Chato, município de Santana do Livramento, RS - Brasil.</p>
-![alt text](https://raw.githubusercontent.com/lucasdmarten/tcc/master/tcc/imgs/dominio/projection.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/lucasdmarten/tcc/master/tcc/imgs/dominio/projection.jpg)
 
 
