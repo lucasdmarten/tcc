@@ -1,4 +1,4 @@
-<h1 align=center>Projeto Trabalho de Conclusão de Curso:</h1>
+<h1 align=center>Projeto Trabalho de Conclusão de Curso (Resumo):</h1>
 
 
 <h2>Objetivos</h2>
@@ -17,6 +17,28 @@
 
 <br>
 <br>
+
+<h2>Dados usados na comparação:</h2>
+
+<p>Os dados utilizados para calcular o erro do modelo foram coletados em um anemometro a 106 metros de altura. Abaixo cada boxplot representa um período.</p>
+<p> Primeiro caso começa 23/05/2018 às 00:00:00 até dia 24/05/2018 às 23:50:00. E o segundo caso começa no dia 23/09/2018 às 00:00:00 até dia 25/09/2018 às 23:50:00 todos em horário UTC.</p>
+
+<img align=center src="https://github.com/lucasdmarten/tcc/blob/master/img_resultados/boxplot_caso_1e2.png?raw=true">
+
+<br>
+<br>
+
+
+<h2>Resultados preliminares:</h2>
+
+
+
+
+
+<img align=center src="https://github.com/lucasdmarten/tcc/blob/master/img_resultados/painel_analise_ensemble.png?raw=true">
+
+<img align=center src="https://github.com/lucasdmarten/tcc/blob/master/img_resultados/painel_analise_ensemble_caso2.png?raw=true">
+
 
 <h2>Referências:</h2>
 <br>
